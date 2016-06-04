@@ -1,1 +1,3 @@
-#### Angular2 Project including Material Design and Firebase.
+#### Angular2 Project
+##### + Material Design
+##### + Firebase
